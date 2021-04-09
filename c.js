@@ -1,1 +1,2 @@
-log.console("c");
+console.log("c");
+console.log("add cc");
