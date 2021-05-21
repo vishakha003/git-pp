@@ -1,1 +1,0 @@
-log.console("b");
